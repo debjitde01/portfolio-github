@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-de.debjit92%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:de.debjit92@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dr._Debjit_De-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-debjit-de-207732171/?isSelfProfile=true)
 [![GitHub](https://img.shields.io/badge/GitHub-debjitde01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjitde01)
-[![ORCID](https://img.shields.io/badge/ORCID-Academic%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--7613--9241-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7613-9241)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=-j-7-_AAAAAJ&view_op=list_works&gmla=AERr9JGo0k52wnOcxiFRuRNhbO0Ud8AL7P9JXvN9v356zM_AaW01iPIZopL0tyGhWC1b4TxN0V6s43CngreG5NoC)
 [![Location](https://img.shields.io/badge/Location-LPU%20Punjab%20%7C%20Kolkata-slate?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Lovely+Professional+University)
 
@@ -139,6 +139,7 @@ Here are select articles from my **9+ peer-reviewed journal publications**, **3 
 - 💼 **LinkedIn:** [Dr. Debjit De on LinkedIn](https://www.linkedin.com/in/dr-debjit-de-207732171/?isSelfProfile=true)
 - 💻 **GitHub:** [github.com/debjitde01](https://github.com/debjitde01)
 - 🎓 **Google Scholar:** [Dr. Debjit De on Google Scholar](https://scholar.google.com/citations?hl=en&user=-j-7-_AAAAAJ&view_op=list_works&gmla=AERr9JGo0k52wnOcxiFRuRNhbO0Ud8AL7P9JXvN9v356zM_AaW01iPIZopL0tyGhWC1b4TxN0V6s43CngreG5NoC)
+- 🆔 **ORCID:** [0009-0004-7613-9241](https://orcid.org/0009-0004-7613-9241)
 - 🌐 **Portfolio Website:** *Explore my interactive web portfolio on GitHub Pages!*
 
 <div align="center">

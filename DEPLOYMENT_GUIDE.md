@@ -64,7 +64,7 @@ If you prefer naming the repository `portfolio`:
   - LinkedIn: `https://www.linkedin.com/in/dr-debjit-de-207732171/?isSelfProfile=true`
   - Email: `de.debjit92@outlook.com`
   - Google Scholar: `https://scholar.google.com/citations?hl=en&user=-j-7-_AAAAAJ&view_op=list_works&gmla=AERr9JGo0k52wnOcxiFRuRNhbO0Ud8AL7P9JXvN9v356zM_AaW01iPIZopL0tyGhWC1b4TxN0V6s43CngreG5NoC`
-  - ORCID: add your ORCID ID (e.g. `0000-000x-xxxx-xxxx`).
+  - ORCID: `https://orcid.org/0009-0004-7613-9241`
 - **CV Updates:** Whenever you update your CV, simply replace `assets/Dr_Debjit_De_Resume.pdf` with the latest version.
 
 ---
