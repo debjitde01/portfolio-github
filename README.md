@@ -8,8 +8,9 @@
 
 [![Email](https://img.shields.io/badge/Email-de.debjit92%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:de.debjit92@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dr._Debjit_De-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-debjit-de-207732171/?isSelfProfile=true)
+[![GitHub](https://img.shields.io/badge/GitHub-debjitde01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjitde01)
 [![ORCID](https://img.shields.io/badge/ORCID-Academic%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=-j-7-_AAAAAJ&view_op=list_works&gmla=AERr9JGo0k52wnOcxiFRuRNhbO0Ud8AL7P9JXvN9v356zM_AaW01iPIZopL0tyGhWC1b4TxN0V6s43CngreG5NoC)
 [![Location](https://img.shields.io/badge/Location-LPU%20Punjab%20%7C%20Kolkata-slate?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Lovely+Professional+University)
 
 ---
@@ -121,12 +122,12 @@ Here are select articles from my **9+ peer-reviewed journal publications**, **3 
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjitde&show_icons=true&theme=slate&hide_border=true&count_private=true" alt="Debjit's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjitde&layout=compact&theme=slate&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debjitde01&show_icons=true&theme=slate&hide_border=true&count_private=true" alt="Debjit's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjitde01&layout=compact&theme=slate&hide_border=true" alt="Top Languages" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjitde&theme=slate&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjitde01&theme=slate&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -136,6 +137,8 @@ Here are select articles from my **9+ peer-reviewed journal publications**, **3 
 - 🏢 **Affiliation:** Department of Bioinformatics, School of Bio-Engineering and Bio-Sciences, Lovely Professional University, Phagwara, Punjab, India
 - 📧 **Direct Email:** [de.debjit92@outlook.com](mailto:de.debjit92@outlook.com)
 - 💼 **LinkedIn:** [Dr. Debjit De on LinkedIn](https://www.linkedin.com/in/dr-debjit-de-207732171/?isSelfProfile=true)
+- 💻 **GitHub:** [github.com/debjitde01](https://github.com/debjitde01)
+- 🎓 **Google Scholar:** [Dr. Debjit De on Google Scholar](https://scholar.google.com/citations?hl=en&user=-j-7-_AAAAAJ&view_op=list_works&gmla=AERr9JGo0k52wnOcxiFRuRNhbO0Ud8AL7P9JXvN9v356zM_AaW01iPIZopL0tyGhWC1b4TxN0V6s43CngreG5NoC)
 - 🌐 **Portfolio Website:** *Explore my interactive web portfolio on GitHub Pages!*
 
 <div align="center">
