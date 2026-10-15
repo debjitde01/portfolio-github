@@ -216,6 +216,68 @@ ul {
   background: rgba(255, 255, 255, 0.05);
 }
 
+.btn-orcid {
+  background: rgba(166, 206, 57, 0.15);
+  border: 1px solid rgba(166, 206, 57, 0.4);
+  color: #a6ce39;
+}
+
+.btn-orcid:hover {
+  background: #a6ce39;
+  color: #0b1120;
+  box-shadow: 0 4px 14px rgba(166, 206, 57, 0.4);
+  transform: translateY(-2px);
+}
+
+.badge-link {
+  transition: var(--transition);
+  cursor: pointer;
+}
+
+.badge-link:hover {
+  border-color: #a6ce39;
+  color: #a6ce39;
+  background: rgba(166, 206, 57, 0.1);
+}
+
+.profile-orcid {
+  margin-top: 0.65rem;
+}
+
+.orcid-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  background: rgba(166, 206, 57, 0.12);
+  border: 1px solid rgba(166, 206, 57, 0.35);
+  color: #a6ce39;
+  font-family: var(--font-mono);
+  font-size: 0.775rem;
+  font-weight: 600;
+  padding: 0.25rem 0.75rem;
+  border-radius: var(--radius-pill);
+  transition: var(--transition);
+}
+
+.orcid-pill:hover {
+  background: #a6ce39;
+  color: #0b1120;
+  box-shadow: 0 0 14px rgba(166, 206, 57, 0.5);
+  transform: translateY(-1px);
+}
+
+.orcid-inline-link {
+  color: #a6ce39;
+  font-family: var(--font-mono);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.orcid-inline-link:hover {
+  color: #c4e46a;
+}
+
 /* ==========================================================================
    Hero Section
    ========================================================================== */
